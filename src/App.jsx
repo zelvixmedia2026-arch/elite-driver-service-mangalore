@@ -22,7 +22,7 @@ import {
   FaTimes,
 } from "react-icons/fa";
 
-const WHATSAPP_NUMBER = "918296320731"; // REPLACE with the client's number
+const WHATSAPP_NUMBER = "919611504351"; // REPLACE with the client's number
 
 const services = [
   {
